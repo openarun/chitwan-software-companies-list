@@ -15,3 +15,4 @@ To add your company please add in the following format in Ascending order.
 |08| Noditt Tech Pvt. Ltd. | Bharatpur-10, Chitwan, Nepal | https://noditt.tech | info@noditt.tech | +977-9828104810|
 |09| Return Zero Infosys Pvt. Ltd. | Satsang Marga, Bharatpur, Chitwan, Nepal | https://www.returnzero.com.np | mailtoreturnzero@gmail.com | 984-5024018 |
 |10| Salyani Technologies Pvt. Ltd.| Bharatpur, Chitwan, Nepal | https://salyani.com | info@salyani.com | +977-56-533977 |
+|11| Azure Dev | Hakim Chowk, Bharatpur-10, Chitwan, Nepal | https://azure.com.np | hello@azure.com.np | 056-510779, 9802890585 |
